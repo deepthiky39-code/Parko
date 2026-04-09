@@ -126,7 +126,7 @@ parko/
 
 ## 👩‍💻 Author
 
-**Deepthy K** — [@deepthiky39-code](https://github.com/deepthiky39-code)
+**Deepthi K Y** — [@deepthiky39-code](https://github.com/deepthiky39-code)
 
 ---
 
