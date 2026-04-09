@@ -1,0 +1,35 @@
+export const parkings = [
+  {
+    id: '1',
+    name: 'Central Mall Parking',
+    price: 50,
+    availableSlots: 12,
+    totalSlots: 100,
+    distance: '0.8 km',
+    latitude: 12.9715987,
+    longitude: 77.5945627,
+    location: '123 MG Road, Bangalore',
+  },
+  {
+    id: '2',
+    name: 'MG Road Spot C',
+    price: 80,
+    availableSlots: 0,
+    totalSlots: 50,
+    distance: '1.2 km',
+    latitude: 12.972442,
+    longitude: 77.600012,
+    location: 'End of MG Road near Metro',
+  },
+  {
+    id: '3',
+    name: 'Brigade Tech Park',
+    price: 40,
+    availableSlots: 45,
+    totalSlots: 200,
+    distance: '2.5 km',
+    latitude: 12.969921,
+    longitude: 77.591234,
+    location: 'Brigade Road, Bangalore',
+  }
+];
